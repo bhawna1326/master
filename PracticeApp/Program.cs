@@ -10,6 +10,7 @@ namespace PracticeApp
 {
     class Program
     {
+
         public static event SampleDel event1;
 
         struct Shape
